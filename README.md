@@ -1,8 +1,7 @@
 ### Hi there, I'm Leo 👋
 
-- 🔭 I’m currently working on front-end & marketing cloud
-- ☁️ I’m Salesforce Marketing Cloud Developer
-- 📫 How to reach me: +55(61)98188-0132
+☁️ Salesforce Marketing Cloud Developer and API Developer
+📫 5561981880132
 
 
  <div>
